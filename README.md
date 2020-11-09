@@ -212,7 +212,6 @@ $ git push heroku master
 
 ```
 $ git clone https://github.com/PhillipeAlves/ruby_pg_api.git cd ruby_pg_api
- 
 ```
 ---
 
