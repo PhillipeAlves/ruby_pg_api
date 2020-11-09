@@ -208,7 +208,7 @@ $ git push heroku master
 
 ### `1`
 
-### Clone the project to your local directory.
+### Clone the project to your local directory
 
 ```
 $ git clone https://github.com/PhillipeAlves/ruby_pg_api.git cd ruby_pg_api
