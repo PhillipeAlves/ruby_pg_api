@@ -1,4 +1,4 @@
-# POSTGRES in RUBY
+![Banner](/public/ruby-banner.gif)
 
 >>>## Steps to create a DB
 
